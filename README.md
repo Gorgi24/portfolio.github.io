@@ -12,8 +12,9 @@
     <img src="https://user-images.githubusercontent.com/123103459/226412999-b74f5295-40d4-4733-be9a-a691d79c5747.JPG" alt="Blue Ball For College" width="500" height="250">
 <br>
     <h3>Here's Biden or Trump! A truly revolutionary way to bring about your political aspirations and ideologies. Made for kids between the ages of 45-78! Don't forget to have fun!!
-    <img src="https://guser-images.githubusercontent.com/123103459/9a8eff4f-9e1c-4588-bb42-0b24cf8d9c88.JPG" alt="Biden or Trump" width="500" height="250">
+    <img src="Pictures\Scratch project.JPG" alt="Biden or Trump" width="500" height="250">
 
-   
+  
+
 </html>
 
