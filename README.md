@@ -15,7 +15,7 @@
   <img src="https://github.com/Gorgi24/portfolio.github.io/blob/Images/Scratch%20project.JPG" alt="Screenshot" width="800" height="600">
     
     <h4>For this project we graphed the change in honey value in the year 1997. We worked on storing and using data in a chart to create the graph with the specific x and y axis that we wanted.
-  <img src="https://github.com/Gorgi24/portfolio.github.io/blob/Images/Scratch%20project.JPG" alt="3.2.4 project" width="500" height="250">
+  <img src="https://github.com/Gorgi24/portfolio.github.io/blob/Images/3.2.4%20project.JPG" alt="3.2.4 project" width="500" height="250">
 <br>
       
 </html>
