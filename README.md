@@ -14,7 +14,7 @@
     <h3>Here's Biden or Trump! A truly revolutionary way to bring about your political aspirations and ideologies. Made for kids between the ages of 45-78! Don't forget to have fun!!
   <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/4719c7fc-5d75-4c8b-91ad-44d4228fe88f" alt="Screenshot" width="800" height="600">
     <h4>For this project we graphed the change in honey value in the year 1997. We worked on storing and using data in a chart to create the graph with the specific x and y axis that we wanted.
-  <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/0c49de6c-83da-4ccd-a2cb-a0d73ea9dbc5" alt="3.2.4 project" width="500" height="600"
+  <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/0c49de6c-83da-4ccd-a2cb-a0d73ea9dbc5" alt="3.2.4 project" width="800" height="250"
 </html>   
 
 
