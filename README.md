@@ -15,6 +15,8 @@
   <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/4719c7fc-5d75-4c8b-91ad-44d4228fe88f" alt="Screenshot" width="800" height="600">
     <h4>For this project we graphed the change in honey value in the year 1997. We worked on storing and using data in a chart to create the graph with the specific x and y axis that we wanted.
   <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/0c49de6c-83da-4ccd-a2cb-a0d73ea9dbc5" alt="3.2.4 project" width="800" height="250">
+    <h4>While previous projects could appear to be humorous, this project had none of that. For this project we applied a simulation of a rebellion of citizens against a police force, and applied the results as well as the implications of it, to real world ideas. 
+  <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/1127a178-47a3-4c21-b210-430b2b6748b8" alt="4.1.4 project" width="800" height="250">
 </html>   
 
 
