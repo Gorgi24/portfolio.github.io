@@ -3,6 +3,7 @@
   <head>
   <title>My Portfolio</title>
    </head>
+    <body bgcolor="#CBC3E3">
     <a href="https://gorgi24.github.io/">Home</a>
     <a href="https://gorgi24.github.io/portfolio.github.io/">Portfolio</a>
     <a href="https://gorgi24.github.io/AboutGorgi.github.io/">About Me</a>
