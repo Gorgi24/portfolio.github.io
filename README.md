@@ -19,7 +19,7 @@
     <h4>While previous projects could appear to be humorous, this project had none of that. For this project we applied a simulation of a rebellion of citizens against a police force, and applied the results as well as the implications of it, to real world ideas. 
   <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/1127a178-47a3-4c21-b210-430b2b6748b8" alt="4.1.4 project" width="800" height="250">
     <h5>In this project we role played as Elon Musk for a little bit and then analyzed the characteristics of Mars that were in a chart of data to create and determine which graph went along with the specific environment.
-  <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/52827649-a052-4885-9d55-d4e837d15e41" alt="3.1.6 project" width="800 height="250>
+  <img src="https://github.com/Gorgi24/portfolio.github.io/assets/123103459/52827649-a052-4885-9d55-d4e837d15e41" alt="3.1.6 project" width="800" height="250">
 </html>   
 
 
